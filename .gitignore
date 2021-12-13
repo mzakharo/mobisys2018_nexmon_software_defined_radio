@@ -1,0 +1,17 @@
+
+/gen
+/log
+/obj
+/brcmfmac43455-sdio.bin
+/BUILD_NUMBER
+/src/ucode_compressed.c
+*mod.c
+*.mod
+*.mod.cmd
+*.ko
+*.ko.cmd
+*.o
+*.o.cmd
+*.symvers
+*.symvers.cmd
+*.order.cmd
